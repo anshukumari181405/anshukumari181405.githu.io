@@ -66,14 +66,14 @@ function submitForm() {
   document.getElementById("resume-button-1").onclick = () => {
     window.open(
       "https://drive.google.com/file/d/1MCqnvpXrXHgiQlI1D5YnQHr-6MreRsLD/view?usp=sharing",
-      `_blank`
+      
     );
   };
   
   document.getElementById("resume-button-2").onclick = () => {
     window.open(
       "https://drive.google.com/file/d/1MCqnvpXrXHgiQlI1D5YnQHr-6MreRsLD/view?usp=sharing",
-      `_blank`
+      
     );
   };
   
